@@ -1,8 +1,10 @@
+
+<h1 align="center">Hi!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Riffat </h1>
+
 ### Heeya! :) 
 
 <a href="#"><img width="100%" height="auto" src="https://github.com/riffatS/riffatS/blob/main/1.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!! I'm Riffat </h1>
 <h3 align="center">I'm a nerd with diverse interests .</h3>
 
 
@@ -75,13 +77,11 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/riffat-s-8b7126203/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
 <a href = "https://www.instagram.com/empr.esss/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/xdrawOp"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 
 </p>
 <br/>
-<br/>
-
 ## ❤ Views and Followers
 <a href="https://github.com/riffatS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=riffatS">
