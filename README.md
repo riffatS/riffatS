@@ -66,12 +66,14 @@
     Check it!
   <br/>
   <a href="https://github-readme-stats.vercel.app/api?username=riffatS"><img alt="Riffat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=riffatS" /></a>
+  
+  <p align="right">
+   <img src="https://github.com/riffatS/riffatS/blob/main/gif.gif" width = 56px> 
+   </p>                                                                                     
   <br/>                                                                                  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
        
-  <p align="right">
-   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frstechgroups.blogspot.com%2F2017%2F11%2Fwhats-software-engineer-salary-in-2014.html&psig=AOvVaw3Aj7Mv2cv9oMnXxYN6yWQK&ust=1640433733198000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDoyYqy_PQCFQAAAAAdAAAAABAD" width = 56px> 
-   </p>
+  
 
 
 <br/>
