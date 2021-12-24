@@ -1,6 +1,6 @@
 ### Hi there! I am Riffat  👋
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src=https://www.freepik.com/free-vector/admin-data-center-room-with-server-hardware_20902944.htm#query=nerd&position=1&from_view=search" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!! I'm Riffat </h1>
 <h3 align="center">I'm a nerd with diverse interests .</h3>
@@ -8,9 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **3D games **
+- 🔭 I’m currently working on **3D games**
 
-- 🌱 I’m currently learning **Unity Game Development **
+- 🌱 I’m currently learning **Unity Game Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
