@@ -68,7 +68,7 @@
   <a href="https://github-readme-stats.vercel.app/api?username=riffatS"><img alt="Riffat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=riffatS" /></a>
   
   <p align="right">
-   <img src="https://github.com/riffatS/riffatS/blob/main/gif.gif" width = 56px> 
+   <img src="https://github.com/riffatS/riffatS/blob/main/gif.gif" width = 100px> 
    </p>                                                                                     
   <br/>                                                                                  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
