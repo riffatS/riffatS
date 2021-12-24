@@ -10,19 +10,24 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **3D games and Technical writing**
+
+- :computer: I am a Software Engineer with a silver medal <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8"/>
+
+- 🔭 I’m currently working as a ** Software Technical writer** on Government level 
+
+- :sunglasses: I have written **100+ blogs and articles!**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio)(https://riffatsiddiqui36.journoportfolio.com/)**
 
 - 🌱 I’m currently learning **Unity Game Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio)(https://riffatsiddiqui36.journoportfolio.com/)**
-
 - 📫 How to reach me **riffatsiddiqui36@gmail.com**
 
 - ⚡ Fun fact **I play chess and taekwondo**
 
-- :sunglasses: I have written **100+ blogs and articles!**
+
 
 ## 🚀 Languages and Tools:
 
