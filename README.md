@@ -1,4 +1,4 @@
-### Hi there! I am Riffat  👋
+### Heeya! :) 
 
 <a href="#"><img width="100%" height="auto" src="https://github.com/riffatS/riffatS/blob/main/1.jpg" height="175px"/></a>
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **riffatsiddiqui36@gmail.com**
 
-- ⚡ Fun fact **I play chess and do taekwondo**
+- ⚡ Fun fact **I play chess and taekwondo**
 
 ## 🚀 Languages and Tools:
 
