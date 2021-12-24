@@ -66,7 +66,7 @@
     Check it!
   <br/>
   <a href="https://github-readme-stats.vercel.app/api?username=riffatS"><img alt="Riffat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=riffatS" /></a>
-   <img src="https://github.com/riffatS/riffatS/blob/main/gif.gif" width = 400px> 
+  <img src="https://github.com/riffatS/riffatS/blob/main/gif.gif" width = 370px align="right"> 
                                                                                        
   <br/>                                                                                  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
