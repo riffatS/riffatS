@@ -8,17 +8,19 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **3D games**
+- 🔭 I’m currently working on **3D games and Technical writing**
 
 - 🌱 I’m currently learning **Unity Game Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio)**
+- 👨‍💻 All of my projects are available at **[My Portfolio)(https://riffatsiddiqui36.journoportfolio.com/)**
 
 - 📫 How to reach me **riffatsiddiqui36@gmail.com**
 
 - ⚡ Fun fact **I play chess and taekwondo**
+
+- :sunglasses: I have written **100+ blogs and articles!**
 
 ## 🚀 Languages and Tools:
 
