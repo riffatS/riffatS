@@ -58,7 +58,7 @@
 ## 📊 My Github Stats<br/>
 Check it!
 <br/>
-<img src="https://github.com/riffatS/riffatS/blob/main/gif.gif" width = 350 align="right"> 
+<img src="https://github.com/riffatS/riffatS/blob/main/gif.gif" width = 300 align="right"> 
 <a href="https://github-readme-stats.vercel.app/api?username=riffatS">
   <img align="center" height = 300 width= 500 alt="Riffat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=riffatS" />
 </a>                                                                                   
