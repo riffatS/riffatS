@@ -56,14 +56,15 @@
   <br/>
     Check it!
   <br/>
-  <a href="https://github-readme-stats.vercel.app/api?username=riffatS"><img alt="Riffat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=riffatS" /></a>                                                                                                 
+  <a href="https://github-readme-stats.vercel.app/api?username=riffatS"><img alt="Riffat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=riffatS" /></a>
+  <br/>                                                                                  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/riffatS/github-readme-activity-graph"><img alt="Riffat's Activity Graph" src="" /></a>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <br/>
 <br/>
@@ -85,5 +86,5 @@
 </a>
 <a href="https://github.com/riffatS?tab=followers"><img src="https://img.shields.io/github/followers/riffatS?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
 
