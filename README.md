@@ -11,7 +11,7 @@
 ## 🙋‍♂️ About Me
 
 
-- :computer: I am a Software Engineer with a silver medal <img width=20% height=20% src="https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8"/>
+- :computer: I am a Software Engineer with a silver medal <img width=20 height=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8"/>
 
 - 🔭 I’m currently working as a ** Software Technical writer** on Government level 
 
