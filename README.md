@@ -54,7 +54,7 @@
 ## 📊 My Github Stats
 
   <br/>
-   ![Riffat's github stats](https://github-readme-stats.vercel.app/api?username=riffatS)
+    Check it!
   <br/>
   <a href="https://github-readme-stats.vercel.app/api?username=riffatS"><img alt="Riffat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=riffatS" /></a>                                                                                                 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -83,5 +83,5 @@
 </a>
 <a href="https://github.com/riffatS?tab=followers"><img src="https://img.shields.io/github/followers/riffatS?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
