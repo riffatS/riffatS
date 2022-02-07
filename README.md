@@ -13,11 +13,11 @@
 
 - :computer: I am a Software Engineer with a silver medal <img width=20 height=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8"/>
 
-- 🔭 I’m currently working as a **Software Technical Writer** on Government level 
+- 🔭 I’m currently working as a Government **Software Technical Writer** 
 
 - :sunglasses: I have written **100+ blogs and articles!**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio)(https://riffatsiddiqui36.journoportfolio.com/)**
+- 👨‍💻 All of my projects are available at **(https://riffatsiddiqui36.journoportfolio.com/)**
 
 - 🌱 I’m currently learning **Unity Game Development**
 
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **riffatsiddiqui36@gmail.com**
 
-- ⚡ Fun fact **I play chess and taekwondo**
+- ⚡ Fun fact **I play chess and do taekwondo**
 
 
 
