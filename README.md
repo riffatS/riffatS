@@ -13,13 +13,13 @@
 
 - :computer: I am a Software Engineer with a silver medal <img width=20 height=20 src="https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8"/>
 
-- 🔭 I’m currently working as a Government **Software Technical Writer** 
+- I have finished my Msc. in Artificial Intelligence 
 
 - :sunglasses: I have written **100+ blogs and articles!**
 
 - 👨‍💻 All of my projects are available at **(https://riffatsiddiqui36.journoportfolio.com/)**
 
-- 🌱 I’m currently learning **Unity Game Development**
+- 🌱 I’m all about Deep Learning, Machine Learning and Computer Vision
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -32,7 +32,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://unity.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/> </a>
+<img width="44" height="44" src="https://img.icons8.com/external-becris-flat-becris/64/external-deep-learning-artificial-intelligence-becris-flat-becris.png" alt="external-deep-learning-artificial-intelligence-becris-flat-becris"/>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
